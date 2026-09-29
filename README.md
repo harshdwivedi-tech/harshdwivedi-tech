@@ -51,5 +51,3 @@ Email Me for Collaboration/Projects or Anything Else.
 ## You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/HarshDwivedi015)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
